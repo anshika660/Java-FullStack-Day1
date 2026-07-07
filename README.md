@@ -56,6 +56,9 @@ public class Main {
 
     }
 }
+
+<img width="581" height="203" alt="image" src="https://github.com/user-attachments/assets/f4e012c9-2eb8-46b1-ba95-e8b03ca213dc" />
+
 ```
 
 ---
