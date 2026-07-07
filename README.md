@@ -1,4 +1,4 @@
-# ☕ Java Full Stack - Day 1
+# Java Full Stack - Day 1
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=java" />
@@ -9,7 +9,7 @@
 
 ---
 
-## 📖 Overview
+##  Overview
 
 This repository contains the **Day 1 assignment** completed as part of the **TalentxMinds Java Full Stack Development Program**.
 
@@ -17,7 +17,7 @@ The objective of this assignment was to set up the Java development environment,
 
 ---
 
-## 🎯 Learning Objectives
+##  Learning Objectives
 
 - Understand Java fundamentals
 - Install and configure JDK
@@ -29,7 +29,7 @@ The objective of this assignment was to set up the Java development environment,
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 Java-FullStack-Day1/
@@ -44,7 +44,7 @@ Java-FullStack-Day1/
 
 ---
 
-## 💻 Source Code
+##  Source Code
 
 ```java
 public class Main {
@@ -60,7 +60,7 @@ public class Main {
 
 ---
 
-## ▶️ Program Output
+##  Program Output
 
 ```text
 Hello, TalentxMinds!
@@ -69,7 +69,7 @@ My first Java program.
 
 ---
 
-## ⚙️ Technologies Used
+##  Technologies Used
 
 | Technology | Version |
 |------------|---------|
@@ -80,7 +80,7 @@ My first Java program.
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Clone the repository
 
@@ -108,7 +108,7 @@ java Main
 
 ---
 
-## 📚 Concepts Covered
+##  Concepts Covered
 
 - Java Introduction
 - Java Syntax
@@ -123,7 +123,7 @@ java Main
 
 ---
 
-## 📈 Developer Workflow
+##  Developer Workflow
 
 ```text
 Write Code
@@ -149,7 +149,7 @@ Push to GitHub
 
 ---
 
-## 🎓 Training Information
+##  Training Information
 
 **Program:** Java Full Stack Development
 
@@ -159,7 +159,7 @@ Push to GitHub
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Anshika Sharma**
 
@@ -171,7 +171,7 @@ GitHub: **https://github.com/anshika660**
 
 ---
 
-## ⭐ Repository Status
+##  Repository Status
 
 - ✅ Project Completed
 - ✅ Successfully Compiled
