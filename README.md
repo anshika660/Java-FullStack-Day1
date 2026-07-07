@@ -41,7 +41,7 @@ Java-FullStack-Day1/
 ├── README.md
 └── bin/
 ```
-
+```text
 Java-FullStack-Day1
 │
 ├── images
