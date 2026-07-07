@@ -42,6 +42,15 @@ Java-FullStack-Day1/
 └── bin/
 ```
 
+Java-FullStack-Day1
+│
+├── images
+│   ├── output.png
+│   ├── code.png
+│   └── project.png
+├── src
+├── README.md
+
 ---
 
 ##  Source Code
