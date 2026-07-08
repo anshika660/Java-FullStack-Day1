@@ -161,6 +161,37 @@ Push to GitHub
 **Module:** Day 1 – Java Fundamentals & Git
 
 ---
+---
+
+# Java Full Stack - Day 2
+
+## Overview
+
+## Topics Covered
+
+- Java Program Structure
+- Variables
+- Data Types
+- Comments
+- Student Profile
+- Employee Profile
+
+## Programs
+
+- StudentProfile.java
+- EmployeeProfile.java
+- VariablesDemo.java
+- DataTypesDemo.java
+- CommentsDemo.java
+
+## Program Outputs
+<img width="332" height="243" alt="Screenshot 2026-07-08 142514" src="https://github.com/user-attachments/assets/5c11249f-f06b-4fe3-9faa-617ea79e653f" />
+<img width="395" height="245" alt="Screenshot 2026-07-08 142453" src="https://github.com/user-attachments/assets/3f984468-203f-455e-8558-87e5631515ca" />
+<img width="400" height="224" alt="Screenshot 2026-07-08 142437" src="https://github.com/user-attachments/assets/6faef1d1-2ddd-4697-bf02-1be5cda69e40" />
+<img width="554" height="196" alt="Screenshot 2026-07-08 141843" src="https://github.com/user-attachments/assets/f273cf4a-bdd1-4ca7-94e9-3de625162778" />
+
+
+
 
 ##  Author
 
